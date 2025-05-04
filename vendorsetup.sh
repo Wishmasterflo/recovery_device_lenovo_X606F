@@ -1,5 +1,4 @@
 # Some about us
-export FOX_VERSION="R11.1"
 export OF_MAINTAINER=Wishmasterflo
 
 # Build environment stuffs
