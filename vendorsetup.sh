@@ -34,9 +34,6 @@ export OF_SUPPORT_ALL_PAYLOAD_OTA_UPDATES=1
 export OF_SUPPORT_ALL_BLOCK_OTA_UPDATES=1
 export OF_FIX_OTA_UPDATE_MANUAL_FLASH_ERROR=1
 
-# For some reason this is dumb and necessary
-export FOX_BUGGED_AOSP_ARB_WORKAROUND="1601559499"
-
 # -- add settings for R11 --
 export OF_ADVANCED_SECURITY=1
 export FOX_ENABLE_APP_MANAGER=0
